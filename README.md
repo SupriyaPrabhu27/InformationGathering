@@ -59,6 +59,10 @@ Host: example.com
 
 <img width="1226" height="643" alt="image" src="https://github.com/user-attachments/assets/a6d456c6-05af-4e6f-bcf5-d1eb41670a79" />
 
+## domain status:
+
+<img width="1169" height="453" alt="image" src="https://github.com/user-attachments/assets/84fb7730-ce5e-4d35-aad6-6491949c8929" />
+
 
 
 ## smilar site :
